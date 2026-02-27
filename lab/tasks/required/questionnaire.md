@@ -1,6 +1,6 @@
 # Questionnaire — API Exploration
 
-Fill in each answer below. Replace `___` with the correct value.
+Fill in each answer below. Replace `__` with the correct value.
 
 ## Items endpoints
 
